@@ -1,0 +1,1 @@
+Preparazione collaudo OTA online firmato; supporto stream HTTP e HTTPS con protocollo visibile.

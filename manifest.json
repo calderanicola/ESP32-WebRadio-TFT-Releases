@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
+  "version": "tft-core-0.12.2-ota-test",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.12.2-ota-test/firmware.bin",
+  "size": 2369456,
+  "sha256": "c3e3e1db3322302c22af528592ffe1410056545f67f101604ddddf6e0cb4a25a",
+  "signature": "EzYc+6hrG4b3Q+LILq5L3CyyDx6b5zJMtWwaM7PsNwr0P2D82Py/JWJw0vkQF7FXra+m7oq4pV9djnGH5W8IsHE2Dwt8PcpAPpzf0FaS2/IXPKhbBVcWsZrHKyta7rjSYAvoqt8xvRN+JUAl7PTY+foHi5m5+SOJU2s78TNqMZ/P3O6rziKYCkyuXDVKm6JnAgqKaVGIWXuYhoiVoD660JEbBnWdDvrBoU+lXeSRsYrltshdiKvLpZNq8eUd3SOE4YBLL/a/0swxJvY09rqLaGfOjnTFQrrzq50QU6R3k5jVJEuqF1qxh8iS4mTcOQwoKY+0iYRxwGG/tpiCG5PtGsE7ccFHL7y6YUZVwkwQ+cdiJrkrZStBGFghlYiMD8IulB40NB8KacXxariON1l/Qy8STvLDJp5wcnJ74TCXdDIavIC6qHgbp0uBw47yAIwUAFwWEpOb1fzwxBpwyOx2DeCsf7cvP97nn6Thv+OB0GNr0x6oylFMMj6p9ikvDehh",
+  "changelog": "Preparazione collaudo OTA online firmato; supporto stream HTTP e HTTPS con protocollo visibile.",
+  "publishedAt": "2026-09-10T21:12:34Z"
+}
