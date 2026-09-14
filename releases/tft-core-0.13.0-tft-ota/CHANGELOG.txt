@@ -1,0 +1,1 @@
+Aggiornamenti dal menu TFT con ricerca, conferma e avanzamento; controllo dopo il meteo con margine buffer; icona WEB RADIO rossa per nuove versioni. Primo collaudo OTA manuale.

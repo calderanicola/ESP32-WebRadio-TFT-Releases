@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
-  "version": "tft-core-0.12.2-ota-test",
-  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.12.2-ota-test/firmware.bin",
-  "size": 2369456,
-  "sha256": "c3e3e1db3322302c22af528592ffe1410056545f67f101604ddddf6e0cb4a25a",
-  "signature": "EzYc+6hrG4b3Q+LILq5L3CyyDx6b5zJMtWwaM7PsNwr0P2D82Py/JWJw0vkQF7FXra+m7oq4pV9djnGH5W8IsHE2Dwt8PcpAPpzf0FaS2/IXPKhbBVcWsZrHKyta7rjSYAvoqt8xvRN+JUAl7PTY+foHi5m5+SOJU2s78TNqMZ/P3O6rziKYCkyuXDVKm6JnAgqKaVGIWXuYhoiVoD660JEbBnWdDvrBoU+lXeSRsYrltshdiKvLpZNq8eUd3SOE4YBLL/a/0swxJvY09rqLaGfOjnTFQrrzq50QU6R3k5jVJEuqF1qxh8iS4mTcOQwoKY+0iYRxwGG/tpiCG5PtGsE7ccFHL7y6YUZVwkwQ+cdiJrkrZStBGFghlYiMD8IulB40NB8KacXxariON1l/Qy8STvLDJp5wcnJ74TCXdDIavIC6qHgbp0uBw47yAIwUAFwWEpOb1fzwxBpwyOx2DeCsf7cvP97nn6Thv+OB0GNr0x6oylFMMj6p9ikvDehh",
-  "changelog": "Preparazione collaudo OTA online firmato; supporto stream HTTP e HTTPS con protocollo visibile.",
-  "publishedAt": "2026-09-10T21:12:34Z"
+  "version": "tft-core-0.13.0-tft-ota",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.0-tft-ota/firmware.bin",
+  "size": 2407184,
+  "sha256": "8bba502a6f1b59c9e0a8d4b385f70dd1369953cf3ed1baa82cab0029dda71396",
+  "signature": "jxNTlvNzAb6Ma56VIyrND2GvN6/eiBWfXBzdAP7eESSFBP1a5C1rihdeXsSEzzlfOr4wk1QN8ZW/i3XNYjaQw7mhyhW/d+ErWkXuQ5EjnKFogG9fcOWOTx8I3B47qIj5fFIM44yy+bIbHhr3he4YgJ9M7reksWSQweNhlOZfR6WPZ1V7lOOz8pIPV0sitdEcG44jd+9FdKaSCV1F0uUhBdrfAFdPffkGqQy/UmlOKYXSg9V5C1eUjuegGrulNdesYi6vkHMqcHiDHb6r2PKwH1Xg/V+aTXf1zxfP3qKjibge01qN0rZbYxz/I0WKaO5qcvlNG5Z3XSquq32KfLWmYQwV9HaKnClmeEg369IO0iExUzPvKsPTTRHFyv1PJrbbwGnZTLRRIRk8bhjqmJZrzqNQ0H5VbYYi9k9IaU21jULhEkZOe0ew/URLCBzbjHvTYjChemi2A4oORgqrsyFoMabSX/hf7BhGkIqi2WDY+873+jNHM+vwUTSP1wbf3pi4",
+  "changelog": "Aggiornamenti dal menu TFT con ricerca, conferma e avanzamento; controllo dopo il meteo con margine buffer; icona WEB RADIO rossa per nuove versioni. Primo collaudo OTA manuale.",
+  "publishedAt": "2026-09-14T18:13:09Z"
 }
