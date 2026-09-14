@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
-  "version": "tft-core-0.13.0-tft-ota",
-  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.0-tft-ota/firmware.bin",
-  "size": 2407184,
-  "sha256": "8bba502a6f1b59c9e0a8d4b385f70dd1369953cf3ed1baa82cab0029dda71396",
-  "signature": "jxNTlvNzAb6Ma56VIyrND2GvN6/eiBWfXBzdAP7eESSFBP1a5C1rihdeXsSEzzlfOr4wk1QN8ZW/i3XNYjaQw7mhyhW/d+ErWkXuQ5EjnKFogG9fcOWOTx8I3B47qIj5fFIM44yy+bIbHhr3he4YgJ9M7reksWSQweNhlOZfR6WPZ1V7lOOz8pIPV0sitdEcG44jd+9FdKaSCV1F0uUhBdrfAFdPffkGqQy/UmlOKYXSg9V5C1eUjuegGrulNdesYi6vkHMqcHiDHb6r2PKwH1Xg/V+aTXf1zxfP3qKjibge01qN0rZbYxz/I0WKaO5qcvlNG5Z3XSquq32KfLWmYQwV9HaKnClmeEg369IO0iExUzPvKsPTTRHFyv1PJrbbwGnZTLRRIRk8bhjqmJZrzqNQ0H5VbYYi9k9IaU21jULhEkZOe0ew/URLCBzbjHvTYjChemi2A4oORgqrsyFoMabSX/hf7BhGkIqi2WDY+873+jNHM+vwUTSP1wbf3pi4",
-  "changelog": "Aggiornamenti dal menu TFT con ricerca, conferma e avanzamento; controllo dopo il meteo con margine buffer; icona WEB RADIO rossa per nuove versioni. Primo collaudo OTA manuale.",
-  "publishedAt": "2026-09-14T18:13:09Z"
+  "version": "tft-core-0.13.1-ota-menu",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.1-ota-menu/firmware.bin",
+  "size": 2407104,
+  "sha256": "c62e05d0f9e555bdecd75edb099a96270a1898ae79314bd9ff380f22c3339ea6",
+  "signature": "CEzSkJmysIfcpiXpefvEfTAbDXQHNFai3rFeWhtkacSEGR1rqpP4BeybYC/PPcJ6a9T3l2TS3oSK2GQhMUpncWlRPDULzXZV7P5+D8vF1Y4oKOFTpdrcCHpLZogX7FxZY00c81X+ZXOOEYSfhUXBXX2ISM1k91+4JNgxDIetvRE+bIDP2w5bHa9yo6C9FmMkxnL7mD3R9mv1i52DKHQU33DrpLNtLteCS+V61HIWloD3klJcw9lxq5wi8awzvLHNmfxjRQahucIkdJGEgt68XHh6pJHafdOwUdxujzozgylZ44C1JW2uhH71/u4qgalhhuIZSn5VvYZk4I2fOg5KK1pVrlMStlteGF+V/DYNdxUXL5S0HzlX3v5IkzYf6VqgiLFBUwi7flo5COR+nGRTrmt7d+7d19XZZwemNUR3sGzU17GgnSIkrJSJ7wq2YRHu4jqQvWfMHPjWF4wVJuobAPDSdf+9kzSSGOYOSaqK2/TDhTybZ7O0bUrpyR2oAJwQ",
+  "changelog": "Menu semplificato: una sola voce Sistema > Aggiornamenti con ricerca, installazione e codice pagina web. Istruzioni web allineate. Secondo collaudo OTA manuale dal TFT.",
+  "publishedAt": "2026-09-14T18:26:41Z"
 }
