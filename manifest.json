@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
-  "version": "tft-core-0.13.1-ota-menu",
-  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.1-ota-menu/firmware.bin",
-  "size": 2407104,
-  "sha256": "c62e05d0f9e555bdecd75edb099a96270a1898ae79314bd9ff380f22c3339ea6",
-  "signature": "CEzSkJmysIfcpiXpefvEfTAbDXQHNFai3rFeWhtkacSEGR1rqpP4BeybYC/PPcJ6a9T3l2TS3oSK2GQhMUpncWlRPDULzXZV7P5+D8vF1Y4oKOFTpdrcCHpLZogX7FxZY00c81X+ZXOOEYSfhUXBXX2ISM1k91+4JNgxDIetvRE+bIDP2w5bHa9yo6C9FmMkxnL7mD3R9mv1i52DKHQU33DrpLNtLteCS+V61HIWloD3klJcw9lxq5wi8awzvLHNmfxjRQahucIkdJGEgt68XHh6pJHafdOwUdxujzozgylZ44C1JW2uhH71/u4qgalhhuIZSn5VvYZk4I2fOg5KK1pVrlMStlteGF+V/DYNdxUXL5S0HzlX3v5IkzYf6VqgiLFBUwi7flo5COR+nGRTrmt7d+7d19XZZwemNUR3sGzU17GgnSIkrJSJ7wq2YRHu4jqQvWfMHPjWF4wVJuobAPDSdf+9kzSSGOYOSaqK2/TDhTybZ7O0bUrpyR2oAJwQ",
-  "changelog": "Menu semplificato: una sola voce Sistema > Aggiornamenti con ricerca, installazione e codice pagina web. Istruzioni web allineate. Secondo collaudo OTA manuale dal TFT.",
-  "publishedAt": "2026-09-14T18:26:41Z"
+  "version": "tft-core-0.13.2-priority-check",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.2-priority-check/firmware.bin",
+  "size": 2406032,
+  "sha256": "3bbab6df270f62ee9e090cddd71da9622fb186f0f555552aaca3ee5e3f7ebbbe",
+  "signature": "Pf0jzw2foyPkELkcIQREsi++jhTUIZi2pJD2uk4Wy490kZ9oARJcigsJ1PnvrmrnFjRibHDdu2xpJtNBSC0/FcsTPL+Awm0xxPKRiliKfr8FXN2ur1jyLNAs7jEumhKBkYEzl2zJKOo/FJbeYlRC4p85AXUtb6dB6jbjIBeLYGGsWeerWEt3UVvP7oBeYDlXwW6jMzXCr8pUsZlFxvAuJdOkttCoPUF6h6zSXvFEywV5cgi2LOfC/Kpnt0sXe8d4V8jwC7G0XmL8TVQ9zOuDx0HwtISvvxXQCD4oklY6VI+5+GXqnpLcFSele0jh0CaGmu91Kc9wv5CYkwFA95OKfCn6otAcDA1Jj/Wdwk8svREYvt7FdODWH3BIu62Flk2HS68hahQvsuHJz/mu4YVzgQAGsp/2MvKnx2GBu/5o3JiLxYQQodWwOHVp+c6VfFMscusvCuAwP/LN1xQUBfmupRdPcZkJmnzuj6y1NJFkGNwKjCRsvboGtAOFQd/Feoe3",
+  "changelog": "Ricerca aggiornamenti manuale prioritaria: pausa automatica audio, nessuna attesa buffer, ripresa al termine anche su errore. Controllo automatico all avvio invariato.",
+  "publishedAt": "2026-09-14T18:38:33Z"
 }

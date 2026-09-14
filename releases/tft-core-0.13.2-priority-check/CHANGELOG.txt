@@ -1,0 +1,1 @@
+Ricerca aggiornamenti manuale prioritaria: pausa automatica audio, nessuna attesa buffer, ripresa al termine anche su errore. Controllo automatico all avvio invariato.
