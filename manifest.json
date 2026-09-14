@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
-  "version": "tft-core-0.13.2-priority-check",
-  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.2-priority-check/firmware.bin",
-  "size": 2406032,
-  "sha256": "3bbab6df270f62ee9e090cddd71da9622fb186f0f555552aaca3ee5e3f7ebbbe",
-  "signature": "Pf0jzw2foyPkELkcIQREsi++jhTUIZi2pJD2uk4Wy490kZ9oARJcigsJ1PnvrmrnFjRibHDdu2xpJtNBSC0/FcsTPL+Awm0xxPKRiliKfr8FXN2ur1jyLNAs7jEumhKBkYEzl2zJKOo/FJbeYlRC4p85AXUtb6dB6jbjIBeLYGGsWeerWEt3UVvP7oBeYDlXwW6jMzXCr8pUsZlFxvAuJdOkttCoPUF6h6zSXvFEywV5cgi2LOfC/Kpnt0sXe8d4V8jwC7G0XmL8TVQ9zOuDx0HwtISvvxXQCD4oklY6VI+5+GXqnpLcFSele0jh0CaGmu91Kc9wv5CYkwFA95OKfCn6otAcDA1Jj/Wdwk8svREYvt7FdODWH3BIu62Flk2HS68hahQvsuHJz/mu4YVzgQAGsp/2MvKnx2GBu/5o3JiLxYQQodWwOHVp+c6VfFMscusvCuAwP/LN1xQUBfmupRdPcZkJmnzuj6y1NJFkGNwKjCRsvboGtAOFQd/Feoe3",
-  "changelog": "Ricerca aggiornamenti manuale prioritaria: pausa automatica audio, nessuna attesa buffer, ripresa al termine anche su errore. Controllo automatico all avvio invariato.",
-  "publishedAt": "2026-09-14T18:38:33Z"
+  "version": "tft-core-0.13.3-weather-guards",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.3-weather-guards/firmware.bin",
+  "size": 2407488,
+  "sha256": "08538e51651b3a80ce69736abe94429423f793a430e8bcb5e9c1253af801b797",
+  "signature": "f7I2p2lBR/Q1ph0dCkzCAYl2vNQe5o7aEH8ZSyEEegIQBVP9z04Xzt0ExZEWWnLbPxKRFvmpdxu6OfmobZQsrARCTTqVMZlm+4TR069n0LzD3oGA8aKF40jXrPzoU48UmVo9LfgBPpd8dNhpO5Db4ucH9aFBUwvmL1j37wLHL0udVQYZh+bbcVxxngK2cy5iPngOr55PeiLNApZKoGCqAsfOOFmcujJktd6QWpKxehOBEJus0x5iISnLwP1Bd2gfmA1vVQtudrGQSQhObE2dMULmkhCt8DM6j4wwaUZkKvZN8FgcmOsZlcQ/9nZKgZ4b8yNunoVZRjRIi4zsNJUSxzaUO84jJLrt9Zgs72/aYws2I+8yIyFeJBTIT0f4tmALzyZnNbjAuWQGcmr6PUgsDl3jz0mZPY9jRAzFuNvwKthTD+wC6nLe8tAa/DhuZyi7gdMBywxUzH7HXAKcgTTZ2hir3FvwUotvbzLOHvVwIL2R1PL6shCTntvqEQWViY93",
+  "changelog": "Consolidamento meteo: download limitato e interrompibile per proteggere audio e OTA; controllo completo delle previsioni; conservazione degli ultimi dati validi; coordinate e cambio localita protetti. Nessuna modifica alla navigazione encoder.",
+  "publishedAt": "2026-09-14T19:18:46Z"
 }

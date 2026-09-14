@@ -1,0 +1,1 @@
+Consolidamento meteo: download limitato e interrompibile per proteggere audio e OTA; controllo completo delle previsioni; conservazione degli ultimi dati validi; coordinate e cambio localita protetti. Nessuna modifica alla navigazione encoder.
