@@ -1,0 +1,1 @@
+Menu e sottomenu TFT tornano alla Home dopo 30 secondi senza usare encoder o K0. Le modifiche non confermate vengono annullate, comprese le anteprime di luminosita display e LED. Nessuna uscita durante aggiornamenti OTA o operazioni con comandi bloccati; istruzioni setup Wi-Fi mantenute visibili. Il timer salvaschermo riparte dalla Home. Audio e navigazione encoder invariati.

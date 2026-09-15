@@ -1,0 +1,1 @@
+d479bffa604a2e35b5f613f18fb8693020583dd5fc4642a3a06ea2dd45d2bb01  firmware.bin

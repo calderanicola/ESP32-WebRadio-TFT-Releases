@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
-  "version": "tft-core-0.14.0-product-rc1",
-  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.14.0-product-rc1/firmware.bin",
-  "size": 2580352,
-  "sha256": "2535fb895d3161aa13347d9fb693a29db70ad186d17a28d9a114fb4087af49ad",
-  "signature": "U/T21SV+jAQbux8tkks1mhMjdnBZX4oHhA0kDaPSTh24KaRsmHDmMC5Phjv2hcKydqlgGY5ceLkmkvPpy3W0jy845fR6uDxAj+2BVqLUNkAl3pEB9AjNshVs/R3Vs1JPhkvFHnEAMTaj+R9N+k+kWoQ/89cYONo2PRQr8hnDkdjncqWTLOXWwKat6b9LQw6dI1GcYEvt5POTn+r/35SsOgjeuzd3wZr+jQ+8RJSeK7KQrVfzeuvVQ8q8mLPQZD+lcZYSKiLe4EDGAdj/8DYk+SKHADIOAuhZGsMkJYw7rIOxB5Y73L6cADKuO8u9W9KooKvCkpEdlcbRqqTKr8sl3k2djJHhLGKqcKUqXXwS4y4UIO7A0nPipLD9C96KYPbCL4SLaBwVVMSqNmD+lk9MKyvigSVY4QB/FJz36f40+C7Ak4o+DgjmxjJ7ECwerBMtnLpJK8midaC86h4Ed2wj5nn9krr0BdgnaDH8mLpyxFl34Nz9tzRlwcZxqAGFA8U0",
-  "changelog": "Candidato prodotto: backup e ripristino con anteprima, preferenze web, lingua italiano/inglese da TFT e web, guida iniziale e guida rapida offline. Nuovo font Noto Sans antialias per artista e titolo, con accenti. Controlli del primo avvio e recupero OTA condizionato al bootloader e a una versione precedente valida; prova fisica ancora da concordare. Encoder e motore audio invariati. Prima di chiamarla 1.0 restano le verifiche sul dispositivo.",
-  "publishedAt": "2026-09-15T04:24:20Z"
+  "version": "tft-core-0.14.1-menu-timeout",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.14.1-menu-timeout/firmware.bin",
+  "size": 2580624,
+  "sha256": "d479bffa604a2e35b5f613f18fb8693020583dd5fc4642a3a06ea2dd45d2bb01",
+  "signature": "fU59h2tMhqpj9Ef2R89guvA52GPPx6iwn5XonHy0eP5zHS08FWD2AMxH7FDzpxVxiZNcpTm9xomuqC6WouakmPS7SQwZ6+YFPsRqCQvMTD2daBmvt3l/u+Mie+rcGrFwm7EAgY7zcFX0+K5UF6GZn8OYq1efJGzagm6G1romVPpujUZmSJ1clU3pQOa/jzSPSLilNApXSOThJBZi0p2DNS340kV37wj9h+lcczmyuUs3ZEtnG1vGSbVcrPEQinxrgdXGLF0/A2yy9TwHGKoVEA9C76txah/M3DICVmXFI7aX8qDIwKswuHHJbv/ObmnUavZ5ErnnQaRk1PWIBumziT2OzBjzpjvxWGITSjPQ9YcYVhsNe+lcyRvGLpxEfP1z5JR8fMOEa8QuadRJBLb/oqh0zzh70cKc59neIDW2H6pcWtHd6xbm5aXEff4qC36EeD8UAvs/COtlC6PniwsM47wI7g/OXvkyRXVADsE9KKVW6aKsA58+FKul8dbxVypN",
+  "changelog": "Menu e sottomenu TFT tornano alla Home dopo 30 secondi senza usare encoder o K0. Le modifiche non confermate vengono annullate, comprese le anteprime di luminosita display e LED. Nessuna uscita durante aggiornamenti OTA o operazioni con comandi bloccati; istruzioni setup Wi-Fi mantenute visibili. Il timer salvaschermo riparte dalla Home. Audio e navigazione encoder invariati.",
+  "publishedAt": "2026-09-15T20:59:01Z"
 }
