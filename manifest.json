@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
-  "version": "tft-core-0.14.2-auto-update-check",
-  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.14.2-auto-update-check/firmware.bin",
-  "size": 2580784,
-  "sha256": "7d63d5f35de0b06772da5470cefca76906282c231bf570b53f00cdd6492a978e",
-  "signature": "c6oMrMJbgVn1iYwN4iWEYgKH1ry+dgp6Vcd6xOP7XSrXPQhm6tY1qpgjR0zkODTEldrVqzaI7V43wTN08fL9rcJAFqCo1wbMV30SiZ4k+eYKTTB2xQv7swkJgJSWd6RxoL2588df4b1tWdE9d7G+j1DCADk6hxeg1FVlAljR7YoWcKhh5bzM/97/Q6GQIEGhHITD2sbfgNZaoTpC9ZvOPp/TwzZT+MLrMW4CTRiQj3wDGJhKPpFjJMXNqu+r3OLVhVbTq8rmxt3/yO4VCy1qcIdXt2vrYgZnswDIRPi300VDwrR97LauvnRZnHMQIxhz444c4QDqZ03PNYCtBPdG+R04XqFihmcmCcb4OmAaLru3E3iv+CAeMw/TwFvBHJ/eryLn1WjMVJXb9qCx72mqAZuy01ROsLn1mZbOGz3CSFD4EfCJh1qvUzT6bcSMeFY0TK+pTkhIT6lB3JgACRAFgrnRS//jnxZQFiNhEiOkeUTqmakNZPUupOoVPM23Zjvh",
-  "changelog": "Ricerca aggiornamenti automatica dopo il primo tentativo meteo all avvio e poi ogni ora dalla conclusione di una ricerca riuscita. Errori o attese scadute riprogrammano un tentativo dopo 15 minuti. Restano le protezioni rete e buffer, l esclusione dei download concorrenti con meteo e OTA e la priorita della ricerca manuale. L icona rossa conserva l ultimo annuncio valido anche su errore successivo. Installazione sempre manuale; audio e comandi invariati.",
-  "publishedAt": "2026-09-15T21:20:17Z"
+  "version": "tft-core-0.14.3-scrolling-titles",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.14.3-scrolling-titles/firmware.bin",
+  "size": 2583488,
+  "sha256": "07330e3e78e78fdea2531dbee0f46eb563062f1e6682828d518f346f814e76cd",
+  "signature": "dXnUVQur6sXc3d8K+02EpX4IFTm8NeocNXQN1F3ufem/bxKJwWvWhWdfQB0ZQSMHtn9TfjosFBHavK0tK9dDR60f1KcR6HE1O5IHiBj+oNgOAtUh1YeV+/VcAk6b4FMld96Y5ibXtBwr4vwmNxM5k4dk68EdetCGDK4wrJdEI+JrXbGnPC4fbI6uU74hxMN4q8mYnlxlG9X2nSmC2V/irGFSO5yjUksHHGdNYo/pC/UKpvMy/Y4+youZGBcCwSTALioMXx82pLNt7J9K/BXj6mi95riv6uq+9OyByIxyrl+zyPEi6RFdqvY/1w+CLoXry0PJqHnenBMHXHwTMP+yvE5dc5I8Z1eBxIaFIU7EJ55HwLC7WPoSamSFuhwn/3DKCoXcSw7L1El04VHERCFyrolzkVx/tGbc9jYMFZh+DYb0gTtZVUsTkrQPHy/hqLzXi4AcdoMZSSeW8Sbe9O5OD9S/hE/MJkbF3Aa8KKVvXoDvVs3nWygWa4NYzKkcHnQ9",
+  "changelog": "Artista e titolo nella Home scorrono separatamente soltanto quando superano lo spazio disponibile. Font Noto Sans invariato, velocita 20 pixel al secondo con pause iniziale e finale di 1,5 secondi. Aggiornamento limitato alle righe in movimento, senza ridisegnare tutta la schermata per ogni passo. Ripartenza al cambio brano o ritorno Home, non al cambio volume. Testi corti e messaggi di stato restano fermi. Audio e controllo luminosita invariati; fluidita da confermare sul pannello.",
+  "publishedAt": "2026-09-15T21:58:56Z"
 }
