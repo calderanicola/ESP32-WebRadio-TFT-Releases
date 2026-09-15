@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "hardware": "sparkle-xh-s3e-n16r8-tft-pcm5102",
-  "version": "tft-core-0.13.4-ui-polish",
-  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.13.4-ui-polish/firmware.bin",
-  "size": 2413200,
-  "sha256": "dcd409d9590355c2135bd4e78d2814efc12ee49eac2db986deb38a41fbefa86b",
-  "signature": "gsuSE/pa1+z81RvCZyrQ2lMLMRTXFKOaAjRhuLV2yWjFkeubs++jKUdBt3z5AcMauuJ5m5AU6qpARDMiKiG+/YGo6ex9OMuweSnSjehcfn3gBwPsM6ckS7sWVkOfxKrxncUlJJShaarAwaCgPsCpG/FDsoNNV8qpT+17tph3RSMGhTRCsd0Cxmt2hEpTA2g6QgoJcf8K0IdaJCdBuUemN5yETDOjFsHCxhtESRW4/fKplvMETGIKkEa860/x42x5EN/jiBZWDVRIhyaCDRTEoLSM9CuNZeQvQbZtw1ipzE3dZRyjtzG3DyDKCVkc3TSo3iH6N1gsi4YfhA99deOAZ0HujjLjL3sgwCsSPHZ/sa/is1+X3gxsLLyMdrtcgVAVPXDC4xEy1uRhJqQSiWDkjrYPeOJ1yivKUpBJC8PuFg4C05Iv96oCtmUyJYCH6eqVKtR8MtdPC3gmMTU+oFDP3cJwiqCNNURNh375APmJ1zC1p9QE5Kxxj/v+BGDSOdCY",
-  "changelog": "Logger: salvataggio durante ascolto con soglia raggiungibile e margine audio, stato coda aggiornato in tempo reale. Web: stato radio e rete sincronizzati, feedback dei comandi con timeout, slider protetti dagli aggiornamenti e lista stazioni senza doppio rendering. TFT: titoli menu piu leggibili, pausa esplicita e protocollo stream nella selezione stazioni. Motore audio e navigazione encoder invariati.",
-  "publishedAt": "2026-09-14T21:02:38Z"
+  "version": "tft-core-0.14.0-product-rc1",
+  "url": "https://raw.githubusercontent.com/calderanicola/ESP32-WebRadio-TFT-Releases/main/releases/tft-core-0.14.0-product-rc1/firmware.bin",
+  "size": 2580352,
+  "sha256": "2535fb895d3161aa13347d9fb693a29db70ad186d17a28d9a114fb4087af49ad",
+  "signature": "U/T21SV+jAQbux8tkks1mhMjdnBZX4oHhA0kDaPSTh24KaRsmHDmMC5Phjv2hcKydqlgGY5ceLkmkvPpy3W0jy845fR6uDxAj+2BVqLUNkAl3pEB9AjNshVs/R3Vs1JPhkvFHnEAMTaj+R9N+k+kWoQ/89cYONo2PRQr8hnDkdjncqWTLOXWwKat6b9LQw6dI1GcYEvt5POTn+r/35SsOgjeuzd3wZr+jQ+8RJSeK7KQrVfzeuvVQ8q8mLPQZD+lcZYSKiLe4EDGAdj/8DYk+SKHADIOAuhZGsMkJYw7rIOxB5Y73L6cADKuO8u9W9KooKvCkpEdlcbRqqTKr8sl3k2djJHhLGKqcKUqXXwS4y4UIO7A0nPipLD9C96KYPbCL4SLaBwVVMSqNmD+lk9MKyvigSVY4QB/FJz36f40+C7Ak4o+DgjmxjJ7ECwerBMtnLpJK8midaC86h4Ed2wj5nn9krr0BdgnaDH8mLpyxFl34Nz9tzRlwcZxqAGFA8U0",
+  "changelog": "Candidato prodotto: backup e ripristino con anteprima, preferenze web, lingua italiano/inglese da TFT e web, guida iniziale e guida rapida offline. Nuovo font Noto Sans antialias per artista e titolo, con accenti. Controlli del primo avvio e recupero OTA condizionato al bootloader e a una versione precedente valida; prova fisica ancora da concordare. Encoder e motore audio invariati. Prima di chiamarla 1.0 restano le verifiche sul dispositivo.",
+  "publishedAt": "2026-09-15T04:24:20Z"
 }
